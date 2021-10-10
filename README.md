@@ -1,14 +1,6 @@
 Git Commands
 ============
-
-## Translated Versions
-- [Versão em português](READMEpt.md)
-
-___
-
 _A list of commonly used Git commands
-
---
 
 ### Getting & Creating Projects
 
